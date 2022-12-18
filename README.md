@@ -8,3 +8,5 @@ epithelial_analysis.R - Analysis focusing on TCGA subtypes, intertumour heteroge
 nmf.R - Defining metaprograms through NMF
 hpv_analysis.R - Specific analyses to define the role of HPV in intratumour heterogeneity
 ext_validation.R - Validation in external datasets
+
+Tested in R 4.1.0
